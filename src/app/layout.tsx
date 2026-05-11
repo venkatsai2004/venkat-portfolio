@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description: "Portfolio of Venkat Sai, a Data Science Enthusiast and AI Engineer.",
 
   verification: {
-    google:"y0xuzwssAapunDr",
+    google:"y0xuzwssAapunDmmYDqv5z87ckoAEUt6p6Bq-V5H-Io",
   },
 };
 
