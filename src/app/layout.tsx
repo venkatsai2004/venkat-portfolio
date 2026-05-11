@@ -17,6 +17,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Venkat Sai | Data Science & AI Portfolio",
   description: "Portfolio of Venkat Sai, a Data Science Enthusiast and AI Engineer.",
+
+  verification: {
+    google:"e94e49078ea31cfd",
+  },
 };
 
 export default function RootLayout({
